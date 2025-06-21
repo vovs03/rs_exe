@@ -2,6 +2,7 @@
 
 ## Exercises
 
+- [x] 010 `day-006 |> 2025-06-21 23:56` 🌽 [grains](https://exercism.org/tracks/rust/exercises/grains)
 - [x] 009 `day-005 |> 2025-06-20 06:34` 🍾 [bottle-song](https://exercism.org/tracks/rust/exercises/bottle-song)
 - [x] 008 `day-005 |> 2025-06-20 06:11` [armstrong-numbers](https://exercism.org/tracks/rust/exercises/armstrong-numbers)
 - [x] 008 `day-005 |> 2025-06-20 05:49` [beer-song](https://exercism.org/tracks/rust/exercises/beer-song)
